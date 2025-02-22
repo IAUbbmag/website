@@ -2,3 +2,7 @@ baseURL: https://bbmag.ir/
 languageCode: fa-IR
 title: بیت و بایت | Bit and Byte
 theme: hextra
+
+enableRobotsTXT: true
+# Parse Git commit
+enableGitInfo: true
