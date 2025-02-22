@@ -11,4 +11,20 @@ outputs:
   home: [HTML]
   page: [HTML]
   section: [HTML, RSS]
-  
+
+defaultContentLanguage: fa
+languages:
+  en:
+    languageCode: en-US
+    languageName: English
+    contentDir: content/en
+    weight: 1
+    title: Bit and Byte
+  fa:
+    languageCode: fa-IR
+    languageName: فارسی
+    contentDir: content/fa
+    languageCode: fa
+    languageDirection: rtl
+    weight: 2
+    title: بیت و بایت
