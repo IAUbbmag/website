@@ -1,4 +1,89 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://bbmag.ir/
+languageCode: fa-IR
+title: بیت و بایت | Bit and Byte
 theme: hextra
+
+enableRobotsTXT: true
+# Parse Git commit
+enableGitInfo: true
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+defaultContentLanguage: fa
+languages:
+  en:
+    languageCode: en-US
+    languageName: English
+    contentDir: content/en
+    weight: 1
+    title: Bit and Byte
+  fa:
+    languageCode: fa-IR
+    languageName: فارسی
+    contentDir: content/fa
+    languageCode: fa
+    languageDirection: rtl
+    weight: 2
+    title: بیت و بایت
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
+
+params:
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+
+  page:
+  # full (100%), wide (90rem), normal (1280px)
+  width: normal
+
+  # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
+      
+  editURL:
+    enable: true
+    base: "https://github.com/IAUbbmag/website/edit/main/content"
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
