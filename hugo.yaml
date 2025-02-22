@@ -77,6 +77,13 @@ params:
       # full | forward | reverse | strict
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
+      
   editURL:
     enable: true
     base: "https://github.com/IAUbbmag/website/edit/main/content"
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
