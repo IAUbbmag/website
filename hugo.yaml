@@ -59,9 +59,9 @@ menu:
       name: Blog
       pageRef: /blog
       weight: 3
-    - identifier: authors
+    - identifier: staff
       name: Authors
-      pageRef: /authors
+      pageRef: /staff
       weight: 4
     - identifier: about
       name: About Us
