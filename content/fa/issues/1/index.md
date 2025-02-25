@@ -26,7 +26,7 @@ graphicteamleader:
   - name: "زهرا صحرانورد"
     role: "Graphic Team Leader"
     image: "avatar.png"
-editorialboard::
+editorialboard:
   - name: "آنیتا سبحانیان"
     image: "avatar.png"
   - name: "سپیده نوروزی مطلق"
@@ -45,7 +45,7 @@ literaryeditor:
 coverdesigner:
   - name: "زهرا صحرانورد"
     image: "avatar.png"
-graphicteam::
+graphicteam:
   - name: "علی عرب‌زاده"
     image: "avatar.png"
   - name: "جواد طاهری"
