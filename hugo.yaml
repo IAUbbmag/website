@@ -12,7 +12,7 @@ outputs:
   page: [HTML]
   section: [HTML, RSS]
 
-defaultContentLanguage: fa
+defaultContentLanguage: en
 languages:
   en:
     languageCode: en-US
