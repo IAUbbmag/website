@@ -26,7 +26,7 @@ graphicteamleader:
   - name: "Zahra Sahranavard"
     role: "Graphic Team Leader"
     image: "avatar.png"
-editorialboard::
+editorialboard:
   - name: "Anita Sobhanian"
     image: "avatar.png"
   - name: "Sepideh Norouzi Motlagh "
@@ -46,7 +46,7 @@ literaryeditor:
 coverdesigner:
   - name: "Zahra Sahranavard"
     image: "avatar.png"
-graphicteam::
+graphicteam:
   - name: "Ali Arabzadeh"
     image: "avatar.png"
   - name: "Javad Taheri"
