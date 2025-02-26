@@ -63,9 +63,9 @@ menu:
       name: Authors
       pageRef: /staff
       weight: 4
-    - identifier: about
-      name: About Us
-      pageRef: /about
+    - identifier: references
+      name: References
+      pageRef: /references
       weight: 5
     - name: Search
       weight: 6
