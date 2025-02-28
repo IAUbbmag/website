@@ -2,7 +2,7 @@
 layout: wide
 sidebar:
   exclude: true
-title: "Javad Taheri"
+fullname: "Javad Taheri"
 role: "Designer"
 bio: "Javad Taheri, an undergraduate student in Computer Engineering, with a focus on graphic arts including graphic design and image processing. Constantly seeking to develop projects that expand the boundaries of digital art."
 image: "images/avatar.png"
