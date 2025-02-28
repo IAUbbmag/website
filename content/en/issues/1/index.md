@@ -44,6 +44,7 @@ editorialboard:
     url: "staff/sattari"
   - name: "Ali Arabzadeh"
     image: "avatar.png"
+    url: "staff/arabzade"
   - name: "Zahra Sheikhi"
     image: "avatar.png"
     url: "staff/sheikhi"
@@ -59,11 +60,13 @@ coverdesigner:
 graphicteam:
   - name: "Ali Arabzadeh"
     image: "avatar.png"
+    url: "staff/arabzade"
   - name: "Javad Taheri"
     image: "avatar.png"
     url: "staff/taheri"
   - name: "Reza Nassaj"
     image: "avatar.png"
+    url: "staff/nassaj"
 layoutdesigner:
   - name: "Zahra Sahranavard"
     image: "avatar.png"

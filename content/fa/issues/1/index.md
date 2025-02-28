@@ -44,6 +44,7 @@ editorialboard:
     url: "fa/staff/sattari"
   - name: "علی عرب‌زاده"
     image: "avatar.png"
+    url: "fa/staff/arabzade"
   - name: "زهرا شیخی"
     image: "avatar.png"
     url: "fa/staff/sheikhi"
@@ -58,11 +59,13 @@ coverdesigner:
 graphicteam:
   - name: "علی عرب‌زاده"
     image: "avatar.png"
+    url: "fa/staff/arabzade"
   - name: "جواد طاهری"
     image: "avatar.png"
     url: "fa/staff/taheri"
   - name: "رضا نساج"
     image: "avatar.png"
+    url: "fa/staff/nassaj"
 layoutdesigner:
   - name: "زهرا صحرانورد"
     image: "avatar.png"
