@@ -2,14 +2,12 @@
 layout: wide
 sidebar:
   exclude: true
-fullname: "Behdad Bahari"
-role: "Logo Designer"
+fullname: "Dr. Mohammad Ali Asadi"
+role: "Director-in-Chief"
 image: "images/avatar.png"
-social:
-  email: "Behdadbaharipoor@gmail.com"
 contributions:
   - id: "1"
     title: "Issue No. 1"
-    role: "Logo Designer"
+    role: "Director-in-Chief"
     date: 2024-03-16
 ---

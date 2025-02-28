@@ -2,14 +2,12 @@
 layout: wide
 sidebar:
   exclude: true
-fullname: "Behdad Bahari"
-role: "Logo Designer"
+fullname: "Dr. Zeinab Shirkoul"
+role: "Responsible Director"
 image: "images/avatar.png"
-social:
-  email: "Behdadbaharipoor@gmail.com"
 contributions:
   - id: "1"
     title: "Issue No. 1"
-    role: "Logo Designer"
+    role: "Responsible Director"
     date: 2024-03-16
 ---
