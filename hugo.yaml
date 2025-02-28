@@ -78,6 +78,12 @@ params:
     default: system
     displayToggle: true
 
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+
   navbar:
     displayTitle: true
     displayLogo: true
