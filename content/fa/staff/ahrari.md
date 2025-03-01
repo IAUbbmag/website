@@ -5,7 +5,7 @@ sidebar:
 fullname: "آرمان احراری"
 role: "طراح لوگو"
 bio: "طراح گرافیک با ۵ سال تجربه در استفاده از نرم‌افزارهای فتوشاپ و ایلستریتور. دارای سابقه یک ساله در زمینه سئو و تولید محتوا، با توانایی در کار با وردپرس و ساخت وب‌سایت‌های شخصی. همچنین، ۲ سال است که در زمینه طراحی وب‌سایت با HTML، CSS و زبان‌های PHP و جاوااسکریپت فعالیت می‌کنم."
-image: "images/avatar.png"
+image: "images/staff/ahrari.png"
 social:
   email: "armanahrari2@gmail.com"
 contributions:

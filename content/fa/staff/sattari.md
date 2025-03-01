@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "شیدا ستاری"
 role: "سردبیر"
-image: "images/avatar.png"
+image: "images/staff/sattari.png"
 contributions:
   - id: "1"
     title: "نشریه شماره ۱"

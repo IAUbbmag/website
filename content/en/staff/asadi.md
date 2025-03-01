@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "Dr. Mohammad Ali Asadi"
 role: "Director-in-Chief"
-image: "images/avatar.png"
+image: "images/staff/drasadi.png"
 contributions:
   - id: "1"
     title: "Issue No. 1"
