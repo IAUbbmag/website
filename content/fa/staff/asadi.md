@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "دکتر محمدعلی اسدی"
 role: "صاحب امتیاز"
-image: "images/avatar.png"
+image: "images/staff/drasadi.png"
 contributions:
   - id: "1"
     title: "نشریه شماره ۱"

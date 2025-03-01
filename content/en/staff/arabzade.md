@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "Ali ArabZade"
 role: "Editorial Board"
-image: "images/avatar.png"
+image: "images/staff/arabzade.png"
 contributions:
   - id: "1"
     title: "Issue No. 1"

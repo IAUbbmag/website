@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "Sheyda Sattari"
 role: "Editor-in-Chief"
-image: "images/avatar.png"
+image: "images/staff/sattari.png"
 contributions:
   - id: "1"
     title: "Issue No. 1"

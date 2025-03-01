@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "علی عرب زاده"
 role: "هیئت تحریریه"
-image: "images/avatar.png"
+image: "images/staff/arabzade.png"
 contributions:
   - id: "1"
     title: "نشریه شماره ۱"
