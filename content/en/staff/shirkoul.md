@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "Dr. Zeinab Shirkoul"
 role: "Responsible Director"
-image: "images/avatar.png"
+image: "images/staff/shirkoul.png"
 contributions:
   - id: "1"
     title: "Issue No. 1"

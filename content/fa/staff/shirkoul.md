@@ -4,7 +4,7 @@ sidebar:
   exclude: true
 fullname: "دکتر زینب شیرکول"
 role: "مدیر مسئول"
-image: "images/avatar.png"
+image: "images/staff/shirkoul.png"
 contributions:
   - id: "1"
     title: "نشریه شماره ۱"
