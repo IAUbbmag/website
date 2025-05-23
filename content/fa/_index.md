@@ -40,4 +40,55 @@ slides:
       - "images/home/slider-sobhanian.png"
     slidenum: "۴/۴"
 
+
+# TeamStaff 
+teamstaff:
+  title: "با تیم ما آشنا شوید"
+  members:
+    # (Top Row)
+    - name: "دکتر محمد علی اسدی"
+      role: "صاحب امتیاز"
+      image: "home/staff-drasadi.png"
+      url: "staff/asadi"
+      row: "top"
+      aos_delay: 0
+      top_class: ""
+    - name: "دکتر زینب شیرکول"
+      role: "مدیر مسئول"
+      image: "home/staff-drshirkoul.png"
+      url: "staff/shirkoul"
+      row: "top"
+      aos_delay: 300
+      top_class: "top-20"
+    # (Bottom Row)
+    - name: "شیدا ستاری"
+      role: "سردبیر"
+      image: "home/staff-sattari.png"
+      url: "staff/sattari"
+      row: "bottom"
+      aos_delay: 200
+      top_class: "top-10"
+    - name: "زهرا صحرانورد"
+      role: "سرپرست تیم گرافیک"
+      image: "home/staff-sahranavard.png"
+      url: "staff/sahranavard"
+      row: "bottom"
+      aos_delay: 300
+      top_class: "bottom-10"
+    - name: "گودرز جعفری"
+      role: "وب‌مستر"
+      image: "home/staff-jafari.png"
+      url: "staff/jafari"
+      row: "bottom"
+      aos_delay: 400
+      top_class: "top-10"
+    - name: "علی عرب زاده"
+      role: "وب‌مستر"
+      image: "home/staff-arabzade.png"
+      url: "staff/arabzade"
+      row: "bottom"
+      aos_delay: 500
+      top_class: "bottom-10"
+
+
 ---
