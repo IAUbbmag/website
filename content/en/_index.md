@@ -91,5 +91,26 @@ teamstaff:
       aos_delay: 500
       top_class: "bottom-10"
 
+# testimonials slider
+testimonials:
+  title: "Voices from the University about Our Journal"
+  members:
+  - name: "Dr. Alireza Biabannavard"
+    role: "Vice Chancellor for Cultural and Student Affairs, Islamic Azad University, Shiraz Branch"
+    quote: "Student publications are key academic platforms within the university. They allow students to articulate and document their ideas, presenting academic and personal achievements through writing. These journals offer opportunities to share scientific, research-based, cultural, and social contributions, fostering both intellectual growth and personal development."
+    image: "images/home/mrbiabannavard.jpg"
+  - name: "Dr. Mohammadreza Ghaedi"
+    role: "President, Islamic Azad University, Shiraz Branch"
+    quote: "Specialized academic journals—particularly the Computer Science Student Journal—can play a vital role in students’ academic and intellectual growth. Through research and the dissemination of up-to-date content, especially in key fields like Artificial Intelligence, they contribute to knowledge advancement. I sincerely pray to Almighty God for continued success and distinction for all involved in this esteemed journal."
+    image: "images/home/mrghaedi.png"
+  - name: "Dr. Alireza Biabannavard"
+    role: "Vice Chancellor for Cultural and Student Affairs, Islamic Azad University, Shiraz Branch"
+    quote: "Student publications are key academic platforms within the university. They allow students to articulate and document their ideas, presenting academic and personal achievements through writing. These journals offer opportunities to share scientific, research-based, cultural, and social contributions, fostering both intellectual growth and personal development."
+    image: "images/home/mrbiabannavard.jpg"
+  - name: "Dr. Mohammadreza Ghaedi"
+    role: "President, Islamic Azad University, Shiraz Branch"
+    quote: "Specialized academic journals—particularly the Computer Science Student Journal—can play a vital role in students’ academic and intellectual growth. Through research and the dissemination of up-to-date content, especially in key fields like Artificial Intelligence, they contribute to knowledge advancement. I sincerely pray to Almighty God for continued success and distinction for all involved in this esteemed journal."
+    image: "images/home/mrghaedi.png"
+
 
 ---
