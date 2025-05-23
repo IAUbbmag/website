@@ -112,5 +112,10 @@ testimonials:
     quote: "Specialized academic journals—particularly the Computer Science Student Journal—can play a vital role in students’ academic and intellectual growth. Through research and the dissemination of up-to-date content, especially in key fields like Artificial Intelligence, they contribute to knowledge advancement. I sincerely pray to Almighty God for continued success and distinction for all involved in this esteemed journal."
     image: "images/home/mrghaedi.png"
 
-
+# social 
+linkedin:
+  - image: "/images/home/linkedin-preview.png"
+    text: "Connect with us on LinkedIn to stay updated on our recent scientific and professional developments."
+    button: "View LinkedIn Page"
+    url: "https://www.linkedin.com/company/bbmag/"
 ---
