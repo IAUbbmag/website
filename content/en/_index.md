@@ -41,4 +41,55 @@ slides:
       - "images/home/slider-sobhanian.png"
     slidenum: "4/4"
 
+
+# teamstaff 
+teamstaff:
+  title: "Meet Out Team"
+  members:
+    # (Top Row)
+    - name: "Dr. Mohammad Ali Asadi"
+      role: "Director-in-Chief"
+      image: "home/staff-drasadi.png"
+      url: "staff/asadi"
+      row: "top"
+      aos_delay: 0
+      top_class: ""
+    - name: "Dr. Zeinab Shirkoul"
+      role: "Responsible Manager"
+      image: "home/staff-drshirkoul.png"
+      url: "staff/shirkoul"
+      row: "top"
+      aos_delay: 300
+      top_class: "top-20"
+    # (Bottom Row)
+    - name: "Sheyda Sattari"
+      role: "Editor-in-Chief"
+      image: "home/staff-sattari.png"
+      url: "staff/sattari"
+      row: "bottom"
+      aos_delay: 200
+      top_class: "top-10"
+    - name: "Zahra Sahranavard"
+      role: "Graphic Team Leader"
+      image: "home/staff-sahranavard.png"
+      url: "staff/sahranavard"
+      row: "bottom"
+      aos_delay: 300
+      top_class: "bottom-10"
+    - name: "Goudarz Jafari"
+      role: "Webmaster"
+      image: "home/staff-jafari.png"
+      url: "staff/jafari"
+      row: "bottom"
+      aos_delay: 400
+      top_class: "top-10"
+    - name: "Ali Arabzade"
+      role: "Webmaster"
+      image: "home/staff-arabzade.png"
+      url: "staff/arabzade"
+      row: "bottom"
+      aos_delay: 500
+      top_class: "bottom-10"
+
+
 ---
