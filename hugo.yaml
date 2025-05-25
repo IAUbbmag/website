@@ -55,9 +55,9 @@ menu:
       name: Journals
       pageRef: /issues
       weight: 2
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
+    - identifier: interviews
+      name: Interviews
+      pageRef: /interviews
       weight: 3
     - identifier: staff
       name: Authors
