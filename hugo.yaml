@@ -12,6 +12,7 @@ outputs:
   page: [HTML]
   section: [HTML, RSS]
 
+defaultContentLanguageInSubdir: true
 defaultContentLanguage: en
 languages:
   en:
@@ -21,7 +22,6 @@ languages:
     weight: 1
     title: Bit and Byte
   fa:
-    languageCode: fa-IR
     languageName: فارسی
     contentDir: content/fa
     languageCode: fa
