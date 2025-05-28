@@ -8,9 +8,4 @@ bio: "زهرا شیخی هستم ترم آخر رشته مهندسی نرم اف
 image: "images/avatar.png"
 social:
   email: "Zahrasheykhi1772@gmail.com"
-contributions:
-  - id: "1"
-    title: "نشریه شماره ۱"
-    role: "هیئت تحریریه"
-    date: 2024-03-16
 ---

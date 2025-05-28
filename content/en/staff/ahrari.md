@@ -8,9 +8,4 @@ bio: "Graphic designer with 5 years of experience using Photoshop and Illustrato
 image: "images/staff/ahrari.png"
 social:
   email: "armanahrari2@gmail.com"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Logo Designer"
-    date: 2024-03-16
 ---

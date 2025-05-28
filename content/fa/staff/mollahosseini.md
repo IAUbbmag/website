@@ -9,9 +9,4 @@ image: "images/staff/mollahosseini.png"
 social:
   x: "https://x.com/Hamidreza_mim"
   email: "Hamidrezamim6@gmail.com"
-contributions:
-  - id: "1"
-    title: "نشریه شماره ۱"
-    role: "عکاس"
-    date: 2024-03-16
 ---

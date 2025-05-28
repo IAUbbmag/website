@@ -10,9 +10,4 @@ social:
   linkedin: "https://www.linkedin.com/in/javad-taheri-1b603534a"
   email: "jdti1385@gmail.com"
   behance: "https://www.behance.net/javadtaheri2"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Layout Designer"
-    date: 2024-03-16
 ---

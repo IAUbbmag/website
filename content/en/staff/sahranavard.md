@@ -10,9 +10,4 @@ social:
   linkedin: "https://www.linkedin.com/in/zahra-sahranavard"
   email: "zriw10sahranavard@gmail.com"
   github: "https://github.com/ZahraSahranavard"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Head of Graphic Affairs"
-    date: 2024-03-16
 ---

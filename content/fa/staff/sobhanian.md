@@ -11,9 +11,4 @@ social:
   x: "https://x.com/anita_sbh"
   email: "Sobhaniananita@gmail.com"
   github: "https://github.com/AnitaSobhanian"
-contributions:
-  - id: "1"
-    title: "نشریه شماره ۱"
-    role: "هیئت تحریریه"
-    date: 2024-03-16
 ---
