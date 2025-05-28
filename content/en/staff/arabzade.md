@@ -5,9 +5,4 @@ sidebar:
 fullname: "Ali ArabZade"
 role: "Editorial Board"
 image: "images/staff/arabzade.png"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Editorial Board"
-    date: 2024-03-16
 ---

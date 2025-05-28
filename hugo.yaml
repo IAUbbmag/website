@@ -16,7 +16,7 @@ defaultContentLanguageInSubdir: true
 defaultContentLanguage: en
 languages:
   en:
-    languageCode: en-US
+    languageCode: en
     languageName: English
     contentDir: content/en
     weight: 1

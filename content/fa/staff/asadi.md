@@ -5,9 +5,4 @@ sidebar:
 fullname: "دکتر محمدعلی اسدی"
 role: "صاحب امتیاز"
 image: "images/staff/drasadi.png"
-contributions:
-  - id: "1"
-    title: "نشریه شماره ۱"
-    role: "صاحب امتیاز"
-    date: 2024-03-16
 ---

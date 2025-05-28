@@ -8,9 +8,4 @@ bio: "من یک طراح گرافیک حرفه ای با تجره تخصصی د�
 image: "images/avatar.png"
 social:
   email: "Behdadbaharipoor@gmail.com"
-contributions:
-  - id: "1"
-    title: "نشریه شماره ۱"
-    role: "طراح لوگو"
-    date: 2024-03-16
 ---

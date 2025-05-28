@@ -11,9 +11,4 @@ social:
   x: "https://x.com/anita_sbh"
   email: "Sobhaniananita@gmail.com"
   github: "https://github.com/AnitaSobhanian"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Editorial Board"
-    date: 2024-03-16
 ---

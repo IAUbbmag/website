@@ -8,9 +8,4 @@ bio: "طراح گرافیک با ۵ سال تجربه در استفاده از �
 image: "images/staff/ahrari.png"
 social:
   email: "armanahrari2@gmail.com"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "طراح لوگو"
-    date: 2024-03-16
 ---

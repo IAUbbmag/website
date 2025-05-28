@@ -8,9 +8,4 @@ bio: "I am Zahra Sheikhi, in my final semester of studying software engineering.
 image: "images/avatar.png"
 social:
   email: "Zahrasheykhi1772@gmail.com"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Editorial Board"
-    date: 2024-03-16
 ---

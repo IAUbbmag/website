@@ -9,9 +9,4 @@ image: "images/staff/mollahosseini.png"
 social:
   x: "https://x.com/Hamidreza_mim"
   email: "Hamidrezamim6@gmail.com"
-contributions:
-  - id: "1"
-    title: "Issue No. 1"
-    role: "Photographer"
-    date: 2024-03-16
 ---
