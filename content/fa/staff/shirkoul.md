@@ -3,6 +3,6 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "دکتر زینب شیرکول"
-role: "مدیر مسئول"
+role: "صاحب امتیاز"
 image: "images/staff/shirkoul.png"
 ---

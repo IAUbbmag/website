@@ -3,6 +3,6 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "Ali ArabZade"
-role: "Editorial Board"
+role: "Editor-in-Chief"
 image: "images/staff/arabzade.png"
 ---

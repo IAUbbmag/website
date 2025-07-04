@@ -3,6 +3,6 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "Sheyda Sattari"
-role: "Editor-in-Chief"
+role: "Responsible Director"
 image: "images/staff/sattari.png"
 ---

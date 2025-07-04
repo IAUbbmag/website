@@ -47,14 +47,14 @@ teamstaff:
   members:
     # (Top Row)
     - name: "دکتر محمد علی اسدی"
-      role: "صاحب امتیاز"
+      role: "استاد مشاور"
       image: "home/staff-drasadi.png"
       url: "fa/staff/asadi"
       row: "top"
       aos_delay: 0
       top_class: ""
     - name: "دکتر زینب شیرکول"
-      role: "مدیر مسئول"
+      role: "صاحب امتیاز"
       image: "home/staff-drshirkoul.png"
       url: "fa/staff/shirkoul"
       row: "top"
@@ -62,14 +62,14 @@ teamstaff:
       top_class: "top-20"
     # (Bottom Row)
     - name: "شیدا ستاری"
-      role: "سردبیر"
+      role: "مدیر مسئول"
       image: "home/staff-sattari.png"
       url: "fa/staff/sattari"
       row: "bottom"
       aos_delay: 200
       top_class: "top-10"
     - name: "زهرا صحرانورد"
-      role: "سرپرست تیم گرافیک"
+      role: "سردبیر"
       image: "home/staff-sahranavard.png"
       url: "fa/staff/sahranavard"
       row: "bottom"
@@ -83,7 +83,7 @@ teamstaff:
       aos_delay: 400
       top_class: "top-10"
     - name: "علی عرب زاده"
-      role: "وب‌مستر"
+      role: "سردبیر"
       image: "home/staff-arabzade.png"
       url: "fa/staff/arabzade"
       row: "bottom"

@@ -3,6 +3,6 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "شیدا ستاری"
-role: "سردبیر"
+role: "مدیر مسئول"
 image: "images/staff/sattari.png"
 ---
