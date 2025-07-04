@@ -48,14 +48,14 @@ teamstaff:
   members:
     # (Top Row)
     - name: "Dr. Mohammad Ali Asadi"
-      role: "Director-in-Chief"
+      role: "Faculty Advisor"
       image: "home/staff-drasadi.png"
       url: "en/staff/asadi"
       row: "top"
       aos_delay: 0
       top_class: ""
     - name: "Dr. Zeinab Shirkoul"
-      role: "Responsible Manager"
+      role: "Director-in-Chief"
       image: "home/staff-drshirkoul.png"
       url: "en/staff/shirkoul"
       row: "top"
@@ -63,14 +63,14 @@ teamstaff:
       top_class: "top-20"
     # (Bottom Row)
     - name: "Sheyda Sattari"
-      role: "Editor-in-Chief"
+      role: "Responsible Manager"
       image: "home/staff-sattari.png"
       url: "en/staff/sattari"
       row: "bottom"
       aos_delay: 200
       top_class: "top-10"
     - name: "Zahra Sahranavard"
-      role: "Graphic Team Leader"
+      role: "Editor-in-Chief"
       image: "home/staff-sahranavard.png"
       url: "en/staff/sahranavard"
       row: "bottom"
@@ -84,7 +84,7 @@ teamstaff:
       aos_delay: 400
       top_class: "top-10"
     - name: "Ali Arabzade"
-      role: "Webmaster"
+      role: "Editor-in-Chief"
       image: "home/staff-arabzade.png"
       url: "en/staff/arabzade"
       row: "bottom"
