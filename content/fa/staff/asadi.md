@@ -3,6 +3,6 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "دکتر محمدعلی اسدی"
-role: "صاحب امتیاز"
+role: "استاد مشاور"
 image: "images/staff/drasadi.png"
 ---
