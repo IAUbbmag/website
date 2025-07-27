@@ -31,7 +31,7 @@ slides:
     button: "بیشتر بخوانید"
     images:
       - "images/home/slider-taheri.png"
-      - "images/home/slider-arabzade.png"
+      - "images/home/slider-parvini.png"
       - "images/home/slider-jafari.png"
       - "images/home/slider-drasadi.png"
       - "images/home/slider-drshirkoul.png"
@@ -82,10 +82,10 @@ teamstaff:
       row: "bottom"
       aos_delay: 400
       top_class: "top-10"
-    - name: "علی عرب زاده"
+    - name: "علی پروینی"
       role: "سردبیر"
-      image: "home/staff-arabzade.png"
-      url: "fa/staff/arabzade"
+      image: "home/staff-parvini.png"
+      url: "fa/staff/parvini"
       row: "bottom"
       aos_delay: 500
       top_class: "bottom-10"

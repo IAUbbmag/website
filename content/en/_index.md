@@ -32,7 +32,7 @@ slides:
     button: "read more"
     images:
       - "images/home/slider-taheri.png"
-      - "images/home/slider-arabzade.png"
+      - "images/home/slider-parvini.png"
       - "images/home/slider-jafari.png"
       - "images/home/slider-drasadi.png"
       - "images/home/slider-drshirkoul.png"
@@ -83,10 +83,10 @@ teamstaff:
       row: "bottom"
       aos_delay: 400
       top_class: "top-10"
-    - name: "Ali Arabzade"
+    - name: "Ali Parvini"
       role: "Editor-in-Chief"
-      image: "home/staff-arabzade.png"
-      url: "en/staff/arabzade"
+      image: "home/staff-parvini.png"
+      url: "en/staff/parvini"
       row: "bottom"
       aos_delay: 500
       top_class: "bottom-10"
