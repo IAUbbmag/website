@@ -9,7 +9,7 @@ Type: home
 slides:
   - title: "بیت و بایت"
     info: "بیت و بایت؛ از دانشجو، برای دانشجو! \n نشریه‌ای علمی با تمرکز بر هوش مصنوعی و فناوری، پلی میان دانشجویان و دنیای علم. با ما همراه شوید برای نگاهی نو، مقالات به‌روز و تجربه‌های پژوهشی"
-    url: "/fa"
+    url: "fa/about"
     button: "بیشتر بخوانید"
     image: "images/home/slider-logo.png"
     slidenum: "۱/۴"
@@ -21,7 +21,7 @@ slides:
     slidenum: "۲/۴"
   - title: "دوست دارید به تیم بیت و بایت ملحق بشید؟"
     info: "اگر به نوشتن، طراحی، ترجمه یا فناوری علاقه‌مندید، همین حالا وارد دنیای ما بشید!"
-    url: "fa/about"
+    url: "fa/collaboration"
     button: "بیشتر بخوانید"
     image: "images/home/slider-call.png"
     slidenum: "۳/۴"

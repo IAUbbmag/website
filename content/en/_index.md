@@ -10,7 +10,7 @@ Type: home
 slides:
   - title: "Bit And Byte"
     info: "Bit and Byte – By Students, For Students!\n A student-led journal exploring AI and technology. Join us for fresh perspectives, up-to-date articles, and simplified scientific insights"
-    url: "/en"
+    url: "en/about"
     button: "read more"
     image: "images/home/slider-logo.png"
     slidenum: "1/4"
@@ -22,7 +22,7 @@ slides:
     slidenum: "2/4"
   - title: "Thinking of joining Bit And Byte?"
     info: "If you're into writing, design, translation, or tech — come be part of our world!"
-    url: "en/about"
+    url: "en/collaboration"
     button: "read more"
     image: "images/home/slider-call.png"
     slidenum: "3/4"
