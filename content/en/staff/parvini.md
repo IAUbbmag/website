@@ -2,7 +2,7 @@
 layout: wide
 sidebar:
   exclude: true
-fullname: "Ali ArabZade"
+fullname: "Ali parvini"
 role: "Editor-in-Chief"
-image: "images/staff/arabzade.png"
+image: "images/staff/parvini.png"
 ---
