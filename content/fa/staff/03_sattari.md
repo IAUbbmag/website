@@ -1,5 +1,6 @@
 ---
 layout: wide
+slug: "slug"
 sidebar:
   exclude: true
 fullname: "شیدا ستاری"
