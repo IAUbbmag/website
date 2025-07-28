@@ -12,34 +12,34 @@ licenseissuer: "دانشگاه آزاد اسلامی واحد شیراز"
 publicationfield: "علمی، فرهنگی، اجتماعی"
 publicationtype: "دو ماهنامه"
 facultyadvisor:
-  - profile: "staff/asadi"
+  - profile: "staff/01_asadi"
 owner:
-  - profile: "staff/shirkoul"
+  - profile: "staff/02_shirkoul"
 manager:
-  - profile: "staff/sattari"
+  - profile: "staff/03_sattari"
 editorinchief:
-  - profile: "staff/parvini"
-  - profile: "staff/sahranavard"
+  - profile: "staff/04_parvini"
+  - profile: "staff/05_sahranavard"
 graphicteamleader:
-  - profile: "staff/sahranavard"
+  - profile: "staff/05_sahranavard"
 editorialboard:
   - profile: "staff/sobhanian"
   - profile: "staff/norouzi"
-  - profile: "staff/jafari"
-  - profile: "staff/sattari"
-  - profile: "staff/parvini"
+  - profile: "staff/06_jafari"
+  - profile: "staff/03_sattari"
+  - profile: "staff/04_parvini"
   - profile: "staff/sheikhi"
 literaryeditor:
-  - profile: "staff/sattari"
-  - profile: "staff/shirkoul"
+  - profile: "staff/03_sattari"
+  - profile: "staff/02_shirkoul"
 coverdesigner:
-  - profile: "staff/sahranavard"
+  - profile: "staff/05_sahranavard"
 graphicteam:
-  - profile: "staff/parvini"
+  - profile: "staff/04_parvini"
   - profile: "staff/taheri"
   - profile: "staff/nassaj"
 layoutdesigner:
-  - profile: "staff/sahranavard"
+  - profile: "staff/05_sahranavard"
   - profile: "staff/taheri"
 logodesigner:
   - profile: "staff/bahari"
