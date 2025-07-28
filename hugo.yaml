@@ -71,12 +71,16 @@ menu:
       name: References
       pageRef: /references
       weight: 6
+    - identifier: collaboration
+      name: Collaboration
+      pageRef: /collaboration
+      weight: 7
     - identifier: about
       name: About Us
       pageRef: /about
-      weight: 7
-    - name: Search
       weight: 8
+    - name: Search
+      weight: 9
       params:
         type: search
 
