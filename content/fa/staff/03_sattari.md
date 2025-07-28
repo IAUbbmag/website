@@ -1,8 +1,9 @@
 ---
 layout: wide
+slug: "slug"
 sidebar:
   exclude: true
-fullname: "Sheyda Sattari"
-role: "Responsible Director"
+fullname: "شیدا ستاری"
+role: "مدیر مسئول"
 image: "images/staff/sattari.png"
 ---

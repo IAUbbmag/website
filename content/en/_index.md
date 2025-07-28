@@ -10,7 +10,7 @@ Type: home
 slides:
   - title: "Bit And Byte"
     info: "Bit and Byte – By Students, For Students!\n A student-led journal exploring AI and technology. Join us for fresh perspectives, up-to-date articles, and simplified scientific insights"
-    url: "/en"
+    url: "en/about"
     button: "read more"
     image: "images/home/slider-logo.png"
     slidenum: "1/4"
@@ -22,7 +22,7 @@ slides:
     slidenum: "2/4"
   - title: "Thinking of joining Bit And Byte?"
     info: "If you're into writing, design, translation, or tech — come be part of our world!"
-    url: "en/about"
+    url: "en/collaboration"
     button: "read more"
     image: "images/home/slider-call.png"
     slidenum: "3/4"
@@ -32,10 +32,10 @@ slides:
     button: "read more"
     images:
       - "images/home/slider-taheri.png"
-      - "images/home/slider-arabzade.png"
+      - "images/home/slider-parvini.png"
       - "images/home/slider-jafari.png"
       - "images/home/slider-drasadi.png"
-      - "images/home/slider-drshirkoul.png"
+      - "images/home/slider-shirkoul.png"
       - "images/home/slider-sattari.png"
       - "images/home/slider-sahranavard.png"
       - "images/home/slider-sobhanian.png"
@@ -54,9 +54,9 @@ teamstaff:
       row: "top"
       aos_delay: 0
       top_class: ""
-    - name: "Dr. Zeinab Shirkoul"
+    - name: "Zeinab Shirkoul"
       role: "Director-in-Chief"
-      image: "home/staff-drshirkoul.png"
+      image: "home/staff-shirkoul.png"
       url: "en/staff/shirkoul"
       row: "top"
       aos_delay: 300
@@ -83,10 +83,10 @@ teamstaff:
       row: "bottom"
       aos_delay: 400
       top_class: "top-10"
-    - name: "Ali Arabzade"
+    - name: "Ali Parvini"
       role: "Editor-in-Chief"
-      image: "home/staff-arabzade.png"
-      url: "en/staff/arabzade"
+      image: "home/staff-parvini.png"
+      url: "en/staff/parvini"
       row: "bottom"
       aos_delay: 500
       top_class: "bottom-10"

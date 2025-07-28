@@ -1,5 +1,6 @@
 ---
 layout: wide
+slug: "asadi"
 sidebar:
   exclude: true
 fullname: "Dr. Mohammad Ali Asadi"

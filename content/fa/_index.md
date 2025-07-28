@@ -9,7 +9,7 @@ Type: home
 slides:
   - title: "بیت و بایت"
     info: "بیت و بایت؛ از دانشجو، برای دانشجو! \n نشریه‌ای علمی با تمرکز بر هوش مصنوعی و فناوری، پلی میان دانشجویان و دنیای علم. با ما همراه شوید برای نگاهی نو، مقالات به‌روز و تجربه‌های پژوهشی"
-    url: "/fa"
+    url: "fa/about"
     button: "بیشتر بخوانید"
     image: "images/home/slider-logo.png"
     slidenum: "۱/۴"
@@ -21,7 +21,7 @@ slides:
     slidenum: "۲/۴"
   - title: "دوست دارید به تیم بیت و بایت ملحق بشید؟"
     info: "اگر به نوشتن، طراحی، ترجمه یا فناوری علاقه‌مندید، همین حالا وارد دنیای ما بشید!"
-    url: "fa/about"
+    url: "fa/collaboration"
     button: "بیشتر بخوانید"
     image: "images/home/slider-call.png"
     slidenum: "۳/۴"
@@ -31,10 +31,10 @@ slides:
     button: "بیشتر بخوانید"
     images:
       - "images/home/slider-taheri.png"
-      - "images/home/slider-arabzade.png"
+      - "images/home/slider-parvini.png"
       - "images/home/slider-jafari.png"
       - "images/home/slider-drasadi.png"
-      - "images/home/slider-drshirkoul.png"
+      - "images/home/slider-shirkoul.png"
       - "images/home/slider-sattari.png"
       - "images/home/slider-sahranavard.png"
       - "images/home/slider-sobhanian.png"
@@ -53,9 +53,9 @@ teamstaff:
       row: "top"
       aos_delay: 0
       top_class: ""
-    - name: "دکتر زینب شیرکول"
+    - name: "زینب شیرکول"
       role: "صاحب امتیاز"
-      image: "home/staff-drshirkoul.png"
+      image: "home/staff-shirkoul.png"
       url: "fa/staff/shirkoul"
       row: "top"
       aos_delay: 300
@@ -82,10 +82,10 @@ teamstaff:
       row: "bottom"
       aos_delay: 400
       top_class: "top-10"
-    - name: "علی عرب زاده"
+    - name: "علی پروینی"
       role: "سردبیر"
-      image: "home/staff-arabzade.png"
-      url: "fa/staff/arabzade"
+      image: "home/staff-parvini.png"
+      url: "fa/staff/parvini"
       row: "bottom"
       aos_delay: 500
       top_class: "bottom-10"

@@ -1,8 +1,9 @@
 ---
 layout: wide
+slug: "jafari"
 sidebar:
   exclude: true
-fullname: "Goudarz Jafari"
+fullname: "گودرز جعفری"
 image: "images/staff/jafari.png"
 social:
   x: "https://x.com/GoudarzJafari"
