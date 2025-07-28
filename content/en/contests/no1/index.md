@@ -1,7 +1,7 @@
 ---
 title: "Secret Mission: Crack the Vault"
 slug : "contest_no_1"
-layout: "contest"
+layout: "wide"
 date: 2025-07-28
 summary: "A lost clue lies buried within a deeper secret. Time is running out — can you unlock the vault before everything is destroyed?  "
 image: "/images/contest/cloud.png"

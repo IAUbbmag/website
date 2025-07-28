@@ -1,7 +1,7 @@
 ---
 title: "مأموریت سری: رمزگشایی گاوصندوق"
 slug : "contest_no_1"
-layout: "contest"
+layout: "wide"
 date: 2025-07-28
 summary: "سرنخی گم‌شده در دل یک راز پنهان شده است. زمان در حال تمام شدن است. آیا می‌توانی قبل از نابودی، قفل را باز کنی؟  "
 image: "/images/contest/cloud.png"
