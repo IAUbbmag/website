@@ -34,7 +34,7 @@ slides:
       - "images/home/slider-parvini.png"
       - "images/home/slider-jafari.png"
       - "images/home/slider-drasadi.png"
-      - "images/home/slider-drshirkoul.png"
+      - "images/home/slider-shirkoul.png"
       - "images/home/slider-sattari.png"
       - "images/home/slider-sahranavard.png"
       - "images/home/slider-sobhanian.png"
@@ -53,9 +53,9 @@ teamstaff:
       row: "top"
       aos_delay: 0
       top_class: ""
-    - name: "دکتر زینب شیرکول"
+    - name: "زینب شیرکول"
       role: "صاحب امتیاز"
-      image: "home/staff-drshirkoul.png"
+      image: "home/staff-shirkoul.png"
       url: "fa/staff/shirkoul"
       row: "top"
       aos_delay: 300
