@@ -1,5 +1,6 @@
 ---
 layout: wide
+slug: "parvini"
 sidebar:
   exclude: true
 fullname: "Ali Parvini"

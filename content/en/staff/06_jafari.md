@@ -1,5 +1,6 @@
 ---
 layout: wide
+slug: "jafari"
 sidebar:
   exclude: true
 fullname: "Goudarz Jafari"

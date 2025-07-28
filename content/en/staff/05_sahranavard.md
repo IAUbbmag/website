@@ -1,5 +1,6 @@
 ---
 layout: wide
+slug: "sahranavard"
 sidebar:
   exclude: true
 fullname: "Zahra Sahranavard"
