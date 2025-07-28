@@ -1,5 +1,7 @@
 ---
 title: "Interviews"
+type: interview
+layout: wide
 ---
 
 <div style="text-align: center; margin-top: 1em;">

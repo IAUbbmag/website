@@ -1,6 +1,9 @@
 ---
 title: Interview with Dr. Tabarzad
 date: 2024-03-03
+interviewee_photo: "images/interview/dr-tabarzad.png"
+interviewee_name: "Dr. Tabarzad"
+summary: "The featured guest in the first issue of Bit o Byte journal is Dr. Mohammad Ali Tabarzadeh, a distinguished professor at the Islamic Azad University, Shiraz Branch. With valuable experience in teaching and research, he is recognized and respected as one of the prominent figures in the field of computer engineering."
 authors:
   - name: Goudarz Jafari
     link: https://github.com/Goudarz
