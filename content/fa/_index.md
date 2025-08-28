@@ -53,7 +53,7 @@ teamstaff:
       row: "top"
       aos_delay: 0
       top_class: ""
-    - name: "زینب شیرکول"
+    - name: "دکتر زینب شیرکول"
       role: "صاحب امتیاز"
       image: "home/staff-shirkoul.png"
       url: "fa/staff/shirkoul"
