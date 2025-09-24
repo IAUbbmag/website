@@ -3,7 +3,7 @@ layout: wide
 slug: "shirkoul"
 sidebar:
   exclude: true
-fullname: "زینب شیرکول"
+fullname: "دکتر زینب شیرکول"
 role: "صاحب امتیاز"
 image: "images/staff/shirkoul.png"
 ---

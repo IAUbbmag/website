@@ -54,7 +54,7 @@ teamstaff:
       row: "top"
       aos_delay: 0
       top_class: ""
-    - name: "Zeinab Shirkoul"
+    - name: "Dr. Zeinab Shirkoul"
       role: "Director-in-Chief"
       image: "home/staff-shirkoul.png"
       url: "en/staff/shirkoul"
