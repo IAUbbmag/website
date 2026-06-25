@@ -1,10 +1,10 @@
 ---
 layout: wide
-slug: "jafari"
+slug: "goudarz-jafari"
 sidebar:
   exclude: true
 fullname: "گودرز جعفری"
-image: "images/staff/jafari.png"
+image: "images/staff/goudarz-jafari.png"
 social:
   x: "https://x.com/GoudarzJafari"
   email: "me@goudarzjafari.com"

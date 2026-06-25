@@ -1,9 +1,9 @@
 ---
 layout: wide
-slug: "parvini"
+slug: "ali-parvini"
 sidebar:
   exclude: true
 fullname: "علی پروینی"
 role: "سردبیر"
-image: "images/staff/parvini.png"
+image: "images/staff/ali-parvini.png"
 ---
