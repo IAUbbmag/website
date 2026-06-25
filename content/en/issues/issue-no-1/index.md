@@ -12,40 +12,40 @@ licenseissuer: "Islamic Azad University, Shiraz Branch"
 publicationfield: "Scientific, Cultural, Social"
 publicationtype: "Bimonthly"
 facultyadvisor:
-  - profile: "staff/01_asadi"
+  - profile: "staff/01_drasadi"
 owner:
-  - profile: "staff/02_shirkoul"
+  - profile: "staff/02_zeinab-shirkoul"
 manager:
-  - profile: "staff/03_sattari"
+  - profile: "staff/03_sheyda-sattari"
 editorinchief:
-  - profile: "staff/04_parvini"
-  - profile: "staff/05_sahranavard"
+  - profile: "staff/04_ali-parvini"
+  - profile: "staff/05_zahra-sahranavard"
 graphicteamleader:
-  - profile: "staff/05_sahranavard"
+  - profile: "staff/05_zahra-sahranavard"
 editorialboard:
-  - profile: "staff/sobhanian"
-  - profile: "staff/norouzi"
-  - profile: "staff/06_jafari"
-  - profile: "staff/03_sattari"
-  - profile: "staff/04_parvini"
-  - profile: "staff/sheikhi"
+  - profile: "staff/anita-sobhanian"
+  - profile: "staff/sepideh-norouzi"
+  - profile: "staff/06_goudarz-jafari"
+  - profile: "staff/03_sheyda-sattari"
+  - profile: "staff/04_ali-parvini"
+  - profile: "staff/zahra-sheikhi"
 literaryeditor:
-  - profile: "staff/03_sattari"
-  - profile: "staff/02_shirkoul"
+  - profile: "staff/03_sheyda-sattari"
+  - profile: "staff/02_zeinab-shirkoul"
 coverdesigner:
-  - profile: "staff/05_sahranavard"
+  - profile: "staff/05_zahra-sahranavard"
 graphicteam:
-  - profile: "staff/04_parvini"
-  - profile: "staff/taheri"
-  - profile: "staff/nassaj"
+  - profile: "staff/04_ali-parvini"
+  - profile: "staff/javad-taheri"
+  - profile: "staff/reza-nassaj"
 layoutdesigner:
-  - profile: "staff/05_sahranavard"
-  - profile: "staff/taheri"
+  - profile: "staff/05_zahra-sahranavard"
+  - profile: "staff/javad-taheri"
 logodesigner:
-  - profile: "staff/bahari"
-  - profile: "staff/ahrari"
+  - profile: "staff/behdad-bahari"
+  - profile: "staff/arman-ahrari"
 photographer:
-  - profile: "staff/mollahosseini"
+  - profile: "staff/hamidreza-mollahosseini"
 thanks:
   - text: "Dr. Mohammadreza Ghaedi, President of Islamic Azad University, Shiraz Branch"
   - text: "Dr. Alireza Biabannavard, Vice President of Student and Cultural Affairs, Islamic Azad University, Shiraz Branch"

@@ -1,9 +1,9 @@
 ---
 layout: wide
-slug: "parvini"
+slug: "ali-parvini"
 sidebar:
   exclude: true
 fullname: "Ali Parvini"
 role: "Editor-in-Chief"
-image: "images/staff/parvini.png"
+image: "images/staff/ali-parvini.png"
 ---
