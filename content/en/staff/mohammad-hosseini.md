@@ -3,7 +3,7 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "Mohammad Hosseini"
-role: "Editorial Board"
+role: "Graphic Team"
 bio: ""
 image: "images/staff/mohammad-hosseini.png"
 social:
