@@ -3,7 +3,7 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "زهرا علی پور"
-role: "هیئت تحریریه"
+role: "تیم گرافیک"
 bio: "زهرا علی پور\n۲۱ ساله\nدانشجوی مهندسی کامپیوتر"
 image: "images/staff/zahra-alipour.png"
 social:

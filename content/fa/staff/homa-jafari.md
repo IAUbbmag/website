@@ -3,7 +3,7 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "هما جعفری"
-role: "هیئت تحریریه"
+role: "تیم گرافیک"
 bio: ""
 image: "images/staff/homa-jafari.png"
 social:
