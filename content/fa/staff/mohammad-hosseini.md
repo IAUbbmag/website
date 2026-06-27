@@ -3,7 +3,7 @@ layout: wide
 sidebar:
   exclude: true
 fullname: "محمد حسینی"
-role: "هیئت تحریریه"
+role: "تیم گرافیک"
 bio: ""
 image: "images/staff/mohammad-hosseini.png"
 social:
