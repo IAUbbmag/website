@@ -6,7 +6,7 @@ toc: false
 ---
 
 
-{{< tabs items="First Issue" >}}
+{{< tabs items="First Issue,Second Issue" >}}
 
 {{< tab >}}**Table of Contents**: 
 {{% details title="Neuralink" closed="true" %}}
@@ -54,6 +54,24 @@ toc: false
 {{% details title="The Art of Steering Language Models" closed="true" %}}
 - ChatGPT-4o, "Introduction to Prompt Engineering: From Artificial Intelligence Models," edited by H. Karimi, Bojnord University, Department of Industrial Engineering, May 24-27, 140.
 = M. Ariany, "LLM Prompt Engineering," YouTube. [Online]. Available: https://www.youtube.com/playlist?list=PLKI4_lXzsRRf_DNrqdzFBdV-VqknLGbZ7.
+{{% /details %}}
+{{< /tab >}}
+{{< tab >}}**Table of Contents**: 
+{{% details title="Digital Justice: Law in the Age of AI" id="issue2-digital-justice" closed="true" %}}
+{{% /details %}}
+{{% details title="How Does AI Secure Networks?" id="issue2-ai-network-security" closed="true" %}}
+{{% /details %}}
+{{% details title="Affective Computing" id="issue2-affective-computing" closed="true" %}}
+{{% /details %}}
+{{% details title="The Algorithm's Lamp in the Darkness of the Skull" id="issue2-algorithm-lamp" closed="true" %}}
+{{% /details %}}
+{{% details title="Transfer of Experience" id="issue2-transfer-of-experience" closed="true" %}}
+{{% /details %}}
+{{% details title="Web3 and the Future of the Internet" id="issue2-web3" closed="true" %}}
+{{% /details %}}
+{{% details title="One Click to Collapse" id="issue2-one-click-to-collapse" closed="true" %}}
+{{% /details %}}
+{{% details title="Introducing Student Projects" id="issue2-student-projects" closed="true" %}}
 {{% /details %}}
 {{< /tab >}}
 {{< /tabs >}}
