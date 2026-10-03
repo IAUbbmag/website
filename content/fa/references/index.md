@@ -5,7 +5,7 @@ description: "فهرست منابع نشریه دانشجویی بیت و بای
 toc: false
 ---
 
-{{< tabs items="شماره اول" >}}
+{{< tabs items="شماره اول,شماره دوم" >}}
 
 {{< tab >}}**فهرست محتوا**: 
 {{% details title="نورالینک" closed="true" %}}
@@ -53,6 +53,24 @@ toc: false
 {{% details title="هنر هدایت مدل‌های زبانی" closed="true" %}}
 - ChatGPT-4o, "Introduction to Prompt Engineering: From Artificial Intelligence Models," edited by H. Karimi, Bojnord University, Department of Industrial Engineering, May 24-27, 140.
 = M. Ariany, "LLM Prompt Engineering," YouTube. [Online]. Available: https://www.youtube.com/playlist?list=PLKI4_lXzsRRf_DNrqdzFBdV-VqknLGbZ7.
+{{% /details %}}
+{{< /tab >}}
+{{< tab >}}**فهرست محتوا**: 
+{{% details title="عدالت دیجیتال؛ حقوق در عصر هوش مصنوعی" id="issue2-digital-justice" closed="true" %}}
+{{% /details %}}
+{{% details title="هوش مصنوعی چگونه شبکه را ایمن می‌سازد؟" id="issue2-ai-network-security" closed="true" %}}
+{{% /details %}}
+{{% details title="رایانش عاطفی" id="issue2-affective-computing" closed="true" %}}
+{{% /details %}}
+{{% details title="چراغ الگوریتم در تاریکی جمجمه" id="issue2-algorithm-lamp" closed="true" %}}
+{{% /details %}}
+{{% details title="انتقال تجربه" id="issue2-transfer-of-experience" closed="true" %}}
+{{% /details %}}
+{{% details title="web3 و آینده اینترنت" id="issue2-web3" closed="true" %}}
+{{% /details %}}
+{{% details title="کلیکی تا سقوط" id="issue2-one-click-to-collapse" closed="true" %}}
+{{% /details %}}
+{{% details title="معرفی پروژه‌های دانشجویی" id="issue2-student-projects" closed="true" %}}
 {{% /details %}}
 {{< /tab >}}
 {{< /tabs >}}
