@@ -5,40 +5,57 @@ toc: false
 layout: wide
 Type: home
 
-# MainSlider
-slides:
-  - title: "بیت و بایت"
-    info: "بیت و بایت؛ از دانشجو، برای دانشجو! \n نشریه‌ای علمی با تمرکز بر هوش مصنوعی و فناوری، پلی میان دانشجویان و دنیای علم. با ما همراه شوید برای نگاهی نو، مقالات به‌روز و تجربه‌های پژوهشی"
-    url: "fa/about"
-    button: "بیشتر بخوانید"
-    image: "images/home/slider-logo.png"
-    slidenum: "۱/۴"
-  - title: "شماره ۱"
-    info: "در این شماره: \n از گفت‌وگو با دکتر تبرزد تا دنیای ایلان ماسک، داستانی از هوش مصنوعی، نگاهی به سخت‌افزارهای پنهان و مهندسی پرامپت. خواندنی، الهام‌بخش و آینده‌نگر."
-    url: "fa/issues/issue-no-1/"
-    button: "بیشتر بخوانید"
-    image: "images/home/slider-magzine.png"
-    slidenum: "۲/۴"
-  - title: "دوست دارید به تیم بیت و بایت ملحق بشید؟"
-    info: "اگر به نوشتن، طراحی، ترجمه یا فناوری علاقه‌مندید، همین حالا وارد دنیای ما بشید!"
-    url: "fa/collaboration"
-    button: "بیشتر بخوانید"
-    image: "images/home/slider-call.png"
-    slidenum: "۳/۴"
-  - title: "اعضا"
-    info: "همه ما"
-    url: "fa/staff"
-    button: "بیشتر بخوانید"
-    images:
-      - "images/home/slider-taheri.png"
-      - "images/home/slider-parvini.png"
-      - "images/home/slider-jafari.png"
-      - "images/home/slider-drasadi.png"
-      - "images/home/slider-shirkoul.png"
-      - "images/home/slider-sattari.png"
-      - "images/home/slider-sahranavard.png"
-      - "images/home/slider-sobhanian.png"
-    slidenum: "۴/۴"
+# HeroSlider (new homepage slider; see themes/hextra/layouts/partials/heroslider.html)
+heroslider:
+  ariaLabel: "معرفی بیت و بایت"
+  slides:
+    # 1 — the robotic hand
+    - kind: "move"
+      seconds: 10
+      label: "BIT&BYTE // ISSUE_02 // 1405"
+      lines: ["حرکت بعدی را", "هوش مصنوعی", "می‌چیند"]
+      lead: "بیت و بایت؛ از دانشجو، برای دانشجو!"
+      text: "نشریه‌ای علمی با تمرکز بر هوش مصنوعی و فناوری، پلی میان دانشجویان و دنیای علم. با ما همراه شوید برای نگاهی نو، مقالات به‌روز و تجربه‌های پژوهشی"
+      image: "images/home/hero/scene.webp"
+      hand: "images/home/hero/hand.webp"
+      alt: "دست رباتیک بالای صفحه شطرنج دیجیتال با مهره‌های کلید، نماد پزشکی و ترازوی عدالت"
+    # 2 — issue 2 cover with the moving light
+    - kind: "cover"
+      seconds: 17
+      label: "BIT&BYTE // ISSUE_02 // 1405"
+      title: "شماره"
+      number: "۲"
+      lead: "در این شماره:"
+      text: "از گفت‌وگو با دکتر محمدامین شایگان تا عدالت دیجیتال در عصر هوش مصنوعی، رایانش عاطفی، چراغ الگوریتم در تاریکی جمجمه، هوش مصنوعی در امنیت شبکه و آینده اینترنت با web3. خواندنی، الهام‌بخش و آینده‌نگر."
+      button: "مطالعه و دانلود این شماره"
+      issue: "issues/issue-no-2"
+      alt: "چهره‌هایی از فناوری، پزشکی و حقوق دور سر یک ذهن مصنوعی ساخته‌شده از ستاره‌ها"
+    # 3 — published issues (3D magazine stack)
+    - kind: "shelf"
+      seconds: 10
+      label: "BIT&BYTE // ISSUES // 01-02"
+      tag: "مجلات منتشرشده بیت و بایت"
+      title: "هنوز شماره ۱ را نخوانده‌اید؟"
+      text: "هر شماره بیت و بایت یک بسته کامل است: گفت‌وگو با اساتید و متخصصان، معرفی پروژه‌های دانشجویی، تیپ‌ها و توصیه‌هایی برای زیست دانشجویی و پیدا کردن کار، و کلی مقاله درباره علم هوش مصنوعی. از شماره ۱ شروع کنید و با شماره ۲ ادامه دهید."
+      buttonPrefix: "مطالعه و دانلود"
+      issues:
+        - page: "issues/issue-no-2"
+          label: "شماره ۲"
+          color: "#9B7CFF"
+          ink: "#0B0620"
+        - page: "issues/issue-no-1"
+          label: "شماره ۱"
+          color: "#F2C14E"
+          ink: "#1A1405"
+    # 4 — call for collaboration (the empty seat under a spotlight)
+    - kind: "stage"
+      seconds: 9
+      label: "BIT&BYTE // JOIN_US"
+      lines: ["ساختی؟", "نشونش", "بده"]
+      text: "نویسنده، طراح، مترجم، پادکستر یا برنامه‌نویس؛ هر کاری که بلدی، در بیت و بایت جایی برایش هست. پروژه‌ات را نشان بده، ایده‌ات را با ما در میان بگذار یا به تیم ما بپیوند."
+      button: "پیوستن به تیم"
+      url: "collaboration"
+      tag: "RESERVED_FOR: YOU"
 
 
 # TeamStaff 
