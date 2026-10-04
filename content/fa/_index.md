@@ -11,7 +11,7 @@ heroslider:
   slides:
     # 1 — the robotic hand
     - kind: "move"
-      seconds: 10
+      seconds: 7
       label: "BIT&BYTE // ISSUE_02 // 1405"
       lines: ["حرکت بعدی را", "هوش مصنوعی", "می‌چیند"]
       lead: "بیت و بایت؛ از دانشجو، برای دانشجو!"
@@ -21,7 +21,7 @@ heroslider:
       alt: "دست رباتیک بالای صفحه شطرنج دیجیتال با مهره‌های کلید، نماد پزشکی و ترازوی عدالت"
     # 2 — issue 2 cover with the moving light
     - kind: "cover"
-      seconds: 17
+      seconds: 11
       label: "BIT&BYTE // ISSUE_02 // 1405"
       title: "شماره"
       number: "۲"
@@ -32,7 +32,7 @@ heroslider:
       alt: "چهره‌هایی از فناوری، پزشکی و حقوق دور سر یک ذهن مصنوعی ساخته‌شده از ستاره‌ها"
     # 3 — published issues (3D magazine stack)
     - kind: "shelf"
-      seconds: 10
+      seconds: 8
       label: "BIT&BYTE // ISSUES // 01-02"
       tag: "مجلات منتشرشده بیت و بایت"
       title: "هنوز شماره ۱ را نخوانده‌اید؟"
@@ -49,7 +49,7 @@ heroslider:
           ink: "#1A1405"
     # 4 — call for collaboration (the empty seat under a spotlight)
     - kind: "stage"
-      seconds: 9
+      seconds: 7
       label: "BIT&BYTE // JOIN_US"
       lines: ["ساختی؟", "نشونش", "بده"]
       text: "نویسنده، طراح، مترجم، پادکستر یا برنامه‌نویس؛ هر کاری که بلدی، در بیت و بایت جایی برایش هست. پروژه‌ات را نشان بده، ایده‌ات را با ما در میان بگذار یا به تیم ما بپیوند."
