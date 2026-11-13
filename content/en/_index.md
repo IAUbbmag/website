@@ -18,7 +18,7 @@ heroslider:
   slides:
     # 1 — the robotic hand
     - kind: "move"
-      seconds: 7
+      seconds: 5
       label: "BIT&BYTE // ISSUE_02 // 2026"
       lines: ["The next move", "belongs to", "AI"]
       accent: 2
@@ -29,7 +29,7 @@ heroslider:
       alt: "A robotic hand above a digital chessboard with a key, a caduceus and the scales of justice as pieces"
     # 2 — issue 2 cover with the moving light
     - kind: "cover"
-      seconds: 11
+      seconds: 7
       label: "BIT&BYTE // ISSUE_02 // 2026"
       title: "Issue"
       number: "No. 2"
@@ -40,7 +40,7 @@ heroslider:
       alt: "Faces from technology, medicine and law around the head of an artificial mind made of stars"
     # 3 — published issues (3D magazine stack)
     - kind: "shelf"
-      seconds: 8
+      seconds: 6
       label: "BIT&BYTE // ISSUES // 01-02"
       tag: "Published issues of Bit and Byte"
       title: "Haven't read Issue 1 yet?"
@@ -55,65 +55,40 @@ heroslider:
           label: "Issue 1"
           color: "#F2C14E"
           ink: "#1A1405"
-    # 4 — call for collaboration (the empty seat under a spotlight)
-    - kind: "stage"
-      seconds: 7
-      label: "BIT&BYTE // JOIN_US"
-      lines: ["Built it?", "Show", "it off"]
-      text: "Writer, designer, translator, podcaster or developer: whatever you're good at, there's a place for it at Bit and Byte. Show us your project, share your idea, or join the team."
-      button: "Join the team"
-      url: "collaboration"
-      tag: "RESERVED_FOR: YOU"
 
-
-# teamstaff 
-teamstaff:
-  title: "Meet Out Team"
+# Team (spotlight credits; see themes/hextra/layouts/partials/teamcredits.html)
+team:
+  title: "Meet Our Team"
+  allText: "All members"
+  allUrl: "en/staff"
   members:
-    # (Top Row)
+    - name: "AI Scientific Association"
+      role: "Proprietor"
+      logo: true
+      # image: "images/home/anjoman-logo.png"   # add the logo file here when it is ready
     - name: "Dr. Mohammad Ali Asadi"
       role: "Faculty Advisor"
-      image: "home/staff-drasadi.png"
+      image: "images/home/staff-drasadi.png"
       url: "en/staff/asadi"
-      row: "top"
-      aos_delay: 0
-      top_class: ""
     - name: "Dr. Zeinab Shirkoul"
-      role: "Director-in-Chief"
-      image: "home/staff-shirkoul.png"
-      url: "en/staff/shirkoul"
-      row: "top"
-      aos_delay: 300
-      top_class: "top-20"
-    # (Bottom Row)
+      image: "images/home/staff-shirkoul.png"
+      url: "en/staff/zeinab-shirkoul"
     - name: "Sheyda Sattari"
-      role: "Responsible Manager"
-      image: "home/staff-sattari.png"
-      url: "en/staff/sattari"
-      row: "bottom"
-      aos_delay: 200
-      top_class: "top-10"
-    - name: "Zahra Sahranavard"
+      role: "Managing Director"
+      image: "images/home/staff-sattari.png"
+      url: "en/staff/sheyda-sattari"
+    - name: "Anita Sobhanian"
       role: "Editor-in-Chief"
-      image: "home/staff-sahranavard.png"
-      url: "en/staff/sahranavard"
-      row: "bottom"
-      aos_delay: 300
-      top_class: "bottom-10"
+      image: "images/staff/anita-sobhanian.png"
+      url: "en/staff/anita-sobhanian"
+    - name: "Ali Parvini"
+      role: "Webmaster"
+      image: "images/home/staff-parvini.png"
+      url: "en/staff/ali-parvini"
     - name: "Goudarz Jafari"
       role: "Webmaster"
-      image: "home/staff-jafari.png"
-      url: "en/staff/jafari"
-      row: "bottom"
-      aos_delay: 400
-      top_class: "top-10"
-    - name: "Ali Parvini"
-      role: "Editor-in-Chief"
-      image: "home/staff-parvini.png"
-      url: "en/staff/parvini"
-      row: "bottom"
-      aos_delay: 500
-      top_class: "bottom-10"
+      image: "images/home/staff-jafari.png"
+      url: "en/staff/goudarz-jafari"
 
 # testimonials slider
 testimonials:
