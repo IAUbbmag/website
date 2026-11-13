@@ -133,3 +133,9 @@ params:
       enable: true
       # hover | always
       display: hover
+
+# Write hugo_stats.json (every HTML tag/class/id used on the rendered site).
+# The deploy workflow feeds it to Tailwind so site-tailwind.css always contains exactly the classes in use.
+build:
+  buildStats:
+    enable: true

@@ -11,7 +11,7 @@ heroslider:
   slides:
     # 1 — the robotic hand
     - kind: "move"
-      seconds: 10
+      seconds: 5
       label: "BIT&BYTE // ISSUE_02 // 1405"
       lines: ["حرکت بعدی را", "هوش مصنوعی", "می‌چیند"]
       lead: "بیت و بایت؛ از دانشجو، برای دانشجو!"
@@ -21,7 +21,7 @@ heroslider:
       alt: "دست رباتیک بالای صفحه شطرنج دیجیتال با مهره‌های کلید، نماد پزشکی و ترازوی عدالت"
     # 2 — issue 2 cover with the moving light
     - kind: "cover"
-      seconds: 17
+      seconds: 7
       label: "BIT&BYTE // ISSUE_02 // 1405"
       title: "شماره"
       number: "۲"
@@ -32,7 +32,7 @@ heroslider:
       alt: "چهره‌هایی از فناوری، پزشکی و حقوق دور سر یک ذهن مصنوعی ساخته‌شده از ستاره‌ها"
     # 3 — published issues (3D magazine stack)
     - kind: "shelf"
-      seconds: 10
+      seconds: 6
       label: "BIT&BYTE // ISSUES // 01-02"
       tag: "مجلات منتشرشده بیت و بایت"
       title: "هنوز شماره ۱ را نخوانده‌اید؟"
@@ -47,66 +47,40 @@ heroslider:
           label: "شماره ۱"
           color: "#F2C14E"
           ink: "#1A1405"
-    # 4 — call for collaboration (the empty seat under a spotlight)
-    - kind: "stage"
-      seconds: 9
-      label: "BIT&BYTE // JOIN_US"
-      lines: ["ساختی؟", "نشونش", "بده"]
-      text: "نویسنده، طراح، مترجم، پادکستر یا برنامه‌نویس؛ هر کاری که بلدی، در بیت و بایت جایی برایش هست. پروژه‌ات را نشان بده، ایده‌ات را با ما در میان بگذار یا به تیم ما بپیوند."
-      button: "پیوستن به تیم"
-      url: "collaboration"
-      tag: "RESERVED_FOR: YOU"
 
-
-# TeamStaff 
-teamstaff:
+# Team (spotlight credits; see themes/hextra/layouts/partials/teamcredits.html)
+team:
   title: "با تیم ما آشنا شوید"
+  allText: "همه اعضا"
+  allUrl: "fa/staff"
   members:
-    # (Top Row)
+    - name: "انجمن علمی هوش مصنوعی"
+      role: "صاحب امتیاز"
+      logo: true
+      # image: "images/home/anjoman-logo.png"   # add the logo file here when it is ready
     - name: "دکتر محمد علی اسدی"
       role: "استاد مشاور"
-      image: "home/staff-drasadi.png"
+      image: "images/home/staff-drasadi.png"
       url: "fa/staff/asadi"
-      row: "top"
-      aos_delay: 0
-      top_class: ""
     - name: "دکتر زینب شیرکول"
-      role: "صاحب امتیاز"
-      image: "home/staff-shirkoul.png"
-      url: "fa/staff/shirkoul"
-      row: "top"
-      aos_delay: 300
-      top_class: "top-20"
-    # (Bottom Row)
+      image: "images/home/staff-shirkoul.png"
+      url: "fa/staff/zeinab-shirkoul"
     - name: "شیدا ستاری"
       role: "مدیر مسئول"
-      image: "home/staff-sattari.png"
-      url: "fa/staff/sattari"
-      row: "bottom"
-      aos_delay: 200
-      top_class: "top-10"
-    - name: "زهرا صحرانورد"
+      image: "images/home/staff-sattari.png"
+      url: "fa/staff/sheyda-sattari"
+    - name: "آنیتا سبحانیان"
       role: "سردبیر"
-      image: "home/staff-sahranavard.png"
-      url: "fa/staff/sahranavard"
-      row: "bottom"
-      aos_delay: 300
-      top_class: "bottom-10"
+      image: "images/staff/anita-sobhanian.png"
+      url: "fa/staff/anita-sobhanian"
+    - name: "علی پروینی"
+      role: "وب‌مستر"
+      image: "images/home/staff-parvini.png"
+      url: "fa/staff/ali-parvini"
     - name: "گودرز جعفری"
       role: "وب‌مستر"
-      image: "home/staff-jafari.png"
-      url: "fa/staff/jafari"
-      row: "bottom"
-      aos_delay: 400
-      top_class: "top-10"
-    - name: "علی پروینی"
-      role: "سردبیر"
-      image: "home/staff-parvini.png"
-      url: "fa/staff/parvini"
-      row: "bottom"
-      aos_delay: 500
-      top_class: "bottom-10"
-
+      image: "images/home/staff-jafari.png"
+      url: "fa/staff/goudarz-jafari"
 
 # testimonials Slider
 testimonials:

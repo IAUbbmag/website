@@ -6,90 +6,89 @@ layout: wide
 Type: home
 
 
-# MainSlider
-slides:
-  - title: "Bit And Byte"
-    info: "Bit and Byte – By Students, For Students!\n A student-led journal exploring AI and technology. Join us for fresh perspectives, up-to-date articles, and simplified scientific insights"
-    url: "en/about"
-    button: "read more"
-    image: "images/home/slider-logo.png"
-    slidenum: "1/4"
-  - title: "Issue N.1"
-    info: "In This Issue: \n A chat with Dr. Tabarzad, insights into Elon Musk’s world, an AI story, hidden hardware, and the magic of prompt engineering. Brief, inspiring, and forward-looking."
-    url: "en/issues/issue-no-1"
-    button: "read more"
-    image: "images/home/slider-magzine.png"
-    slidenum: "2/4"
-  - title: "Thinking of joining Bit And Byte?"
-    info: "If you're into writing, design, translation, or tech — come be part of our world!"
-    url: "en/collaboration"
-    button: "read more"
-    image: "images/home/slider-call.png"
-    slidenum: "3/4"
-  - title: "Team Staff"
-    info: "its all of us"
-    url: "en/staff"
-    button: "read more"
-    images:
-      - "images/home/slider-taheri.png"
-      - "images/home/slider-parvini.png"
-      - "images/home/slider-jafari.png"
-      - "images/home/slider-drasadi.png"
-      - "images/home/slider-shirkoul.png"
-      - "images/home/slider-sattari.png"
-      - "images/home/slider-sahranavard.png"
-      - "images/home/slider-sobhanian.png"
-    slidenum: "4/4"
+# HeroSlider (new homepage slider; see themes/hextra/layouts/partials/heroslider.html)
+heroslider:
+  ariaLabel: "Introducing Bit and Byte"
+  strings:
+    slide: "Slide"
+    contents: "Contents of"
+    cover: "Cover of"
+    backTitle: "Bit and Byte"
+    backText: "Student journal of computer engineering and artificial intelligence<br>Islamic Azad University, Shiraz Branch"
+  slides:
+    # 1 — the robotic hand
+    - kind: "move"
+      seconds: 5
+      label: "BIT&BYTE // ISSUE_02 // 2026"
+      lines: ["The next move", "belongs to", "AI"]
+      accent: 2
+      lead: "Bit and Byte – By Students, For Students!"
+      text: "A student-led journal exploring AI and technology. Join us for fresh perspectives, up-to-date articles, and simplified scientific insights."
+      image: "images/home/hero/scene.webp"
+      hand: "images/home/hero/hand.webp"
+      alt: "A robotic hand above a digital chessboard with a key, a caduceus and the scales of justice as pieces"
+    # 2 — issue 2 cover with the moving light
+    - kind: "cover"
+      seconds: 7
+      label: "BIT&BYTE // ISSUE_02 // 2026"
+      title: "Issue"
+      number: "No. 2"
+      lead: "In this issue:"
+      text: "From a friendly conversation with Dr. Mohammad Amin Shayegan to digital justice in the age of AI, affective computing, the algorithm's lamp in the darkness of the skull, AI in network security, and the future of the internet with Web3. Brief, inspiring, and forward-looking."
+      button: "Read & download this issue"
+      issue: "issues/issue-no-2"
+      alt: "Faces from technology, medicine and law around the head of an artificial mind made of stars"
+    # 3 — published issues (3D magazine stack)
+    - kind: "shelf"
+      seconds: 6
+      label: "BIT&BYTE // ISSUES // 01-02"
+      tag: "Published issues of Bit and Byte"
+      title: "Haven't read Issue 1 yet?"
+      text: "Every issue of Bit and Byte is a complete package: interviews with professors and experts, student project showcases, tips for student life and landing a job, and plenty of articles on the science of AI. Start with Issue 1 and carry on with Issue 2."
+      buttonPrefix: "Read & download"
+      issues:
+        - page: "issues/issue-no-2"
+          label: "Issue 2"
+          color: "#9B7CFF"
+          ink: "#0B0620"
+        - page: "issues/issue-no-1"
+          label: "Issue 1"
+          color: "#F2C14E"
+          ink: "#1A1405"
 
-
-# teamstaff 
-teamstaff:
-  title: "Meet Out Team"
+# Team (spotlight credits; see themes/hextra/layouts/partials/teamcredits.html)
+team:
+  title: "Meet Our Team"
+  allText: "All members"
+  allUrl: "en/staff"
   members:
-    # (Top Row)
+    - name: "AI Scientific Association"
+      role: "Proprietor"
+      logo: true
+      # image: "images/home/anjoman-logo.png"   # add the logo file here when it is ready
     - name: "Dr. Mohammad Ali Asadi"
       role: "Faculty Advisor"
-      image: "home/staff-drasadi.png"
+      image: "images/home/staff-drasadi.png"
       url: "en/staff/asadi"
-      row: "top"
-      aos_delay: 0
-      top_class: ""
     - name: "Dr. Zeinab Shirkoul"
-      role: "Director-in-Chief"
-      image: "home/staff-shirkoul.png"
-      url: "en/staff/shirkoul"
-      row: "top"
-      aos_delay: 300
-      top_class: "top-20"
-    # (Bottom Row)
+      image: "images/home/staff-shirkoul.png"
+      url: "en/staff/zeinab-shirkoul"
     - name: "Sheyda Sattari"
-      role: "Responsible Manager"
-      image: "home/staff-sattari.png"
-      url: "en/staff/sattari"
-      row: "bottom"
-      aos_delay: 200
-      top_class: "top-10"
-    - name: "Zahra Sahranavard"
+      role: "Managing Director"
+      image: "images/home/staff-sattari.png"
+      url: "en/staff/sheyda-sattari"
+    - name: "Anita Sobhanian"
       role: "Editor-in-Chief"
-      image: "home/staff-sahranavard.png"
-      url: "en/staff/sahranavard"
-      row: "bottom"
-      aos_delay: 300
-      top_class: "bottom-10"
+      image: "images/staff/anita-sobhanian.png"
+      url: "en/staff/anita-sobhanian"
+    - name: "Ali Parvini"
+      role: "Webmaster"
+      image: "images/home/staff-parvini.png"
+      url: "en/staff/ali-parvini"
     - name: "Goudarz Jafari"
       role: "Webmaster"
-      image: "home/staff-jafari.png"
-      url: "en/staff/jafari"
-      row: "bottom"
-      aos_delay: 400
-      top_class: "top-10"
-    - name: "Ali Parvini"
-      role: "Editor-in-Chief"
-      image: "home/staff-parvini.png"
-      url: "en/staff/parvini"
-      row: "bottom"
-      aos_delay: 500
-      top_class: "bottom-10"
+      image: "images/home/staff-jafari.png"
+      url: "en/staff/goudarz-jafari"
 
 # testimonials slider
 testimonials:

@@ -58,18 +58,235 @@ toc: false
 {{< /tab >}}
 {{< tab >}}**Table of Contents**: 
 {{% details title="Digital Justice: Law in the Age of AI" id="issue2-digital-justice" closed="true" %}}
+**Courts and fabricated citations**
+
+- Mata v. Avianca, Inc., 678 F. Supp. 3d 443 (S.D.N.Y. 2023).
+- Bloomberg Law (2023, June 22). Bogus ChatGPT citations lead to $5,000 fines. https://news.bloomberglaw.com/litigation/fake-chatgpt-cases-costs-lawyers-5-000-plus-embarrassment
+- The Register (2023, June 22). Lawyers who cited fake cases hallucinated by ChatGPT must pay. https://www.theregister.com/2023/06/22/lawyers_fake_cases/
+- Ji, Z., et al. (2023). Survey of hallucination in natural language generation. ACM Computing Surveys, 55(12), 248. https://doi.org/10.1145/3571730
+
+**Risk assessment in courts**
+
+- Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016, May 23). Machine bias. ProPublica. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
+**Estonia's "robot judge"**
+
+- Wired (2019, March 25). Can AI be a fair judge in court? Estonia thinks so. https://www.wired.com/story/can-ai-be-fair-judge-court-estonia-thinks-so/
+- Estonian Ministry of Justice (2022, February 16). Estonia does not develop AI judge. https://www.justdigi.ee/en/news/estonia-does-not-develop-ai-judge
+
+**Chatbot lawyers**
+
+- Gibbs, S. (2016, June 28). Chatbot lawyer overturns 160,000 parking tickets in London and New York. The Guardian. https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york
+- The Christian Science Monitor (2016, June 28). How a robot lawyer overturned 160,000 parking tickets. https://www.csmonitor.com/Technology/2016/0628/How-a-robot-lawyer-overturned-160-000-parking-tickets
+
+**AI contract review**
+
+- Toews, R. (2019). AI will transform the field of law. Forbes. https://www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/
+- LawGeex (2017). LawGeex Salesforce app. https://blog.lawgeex.com/?p=1813
+
+**Size of the legal services market**
+
+- Global Market Insights. Legal services market size. https://www.gminsights.com/toc/detail/legal-services-market
+
+**Regulation**
+
+- Regulation (EU) 2024/1689 (Artificial Intelligence Act). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
+- ABA Standing Committee on Ethics and Professional Responsibility (2024). Formal Opinion 512: Generative artificial intelligence tools.
+- Iranian Civil Code, Article 571. https://edalatsara.com/rules/قانون-مدنی/ماده-۵۷۱
+
+**Iranian platforms**
+
+- Robovakil. https://cafebazaar.ir/app/com.kheradmen.robovakil
 {{% /details %}}
 {{% details title="How Does AI Secure Networks?" id="issue2-ai-network-security" closed="true" %}}
+**Signature-based detection, IDS and SQL injection**
+
+- Scarfone, K., & Mell, P. (2007). Guide to intrusion detection and prevention systems (IDPS) (NIST SP 800-94). https://doi.org/10.6028/NIST.SP.800-94
+- OWASP. SQL injection. https://owasp.org/www-community/attacks/SQL_Injection
+- Bilge, L., & Dumitraş, T. (2012). Before we knew it: An empirical study of zero-day attacks in the real world. ACM CCS '12, 833–844. https://doi.org/10.1145/2382196.2382284
+- Sommer, R., & Paxson, V. (2010). Outside the closed world: On using machine learning for network intrusion detection. IEEE Symposium on Security and Privacy, 305–316. https://doi.org/10.1109/SP.2010.25
+
+**Anomaly detection and "normal behaviour"**
+
+- Denning, D. E. (1987). An intrusion-detection model. IEEE Transactions on Software Engineering, SE-13(2), 222–232. https://doi.org/10.1109/TSE.1987.232894
+- Chandola, V., Banerjee, A., & Kumar, V. (2009). Anomaly detection: A survey. ACM Computing Surveys, 41(3), Article 15. https://doi.org/10.1145/1541880.1541882
+
+**Autoencoders and variational autoencoders**
+
+- Hinton, G. E., & Salakhutdinov, R. R. (2006). Reducing the dimensionality of data with neural networks. Science, 313(5786), 504–507. https://doi.org/10.1126/science.1127647
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning, Ch. 14 (Autoencoders). MIT Press. https://www.deeplearningbook.org/
+- Sakurada, M., & Yairi, T. (2014). Anomaly detection using autoencoders with nonlinear dimensionality reduction. MLSDA '14. https://doi.org/10.1145/2689746.2689747
+- Kingma, D. P., & Welling, M. (2014). Auto-encoding variational Bayes. ICLR. https://arxiv.org/abs/1312.6114
+- Mirsky, Y., Doitshman, T., Elovici, Y., & Shabtai, A. (2018). Kitsune: An ensemble of autoencoders for online network intrusion detection. NDSS '18. https://doi.org/10.14722/ndss.2018.23204 (arXiv: https://arxiv.org/abs/1802.09089)
+
+**LSTM autoencoders and traffic sequences**
+
+- Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735
+- Malhotra, P., et al. (2016). LSTM-based encoder-decoder for multi-sensor anomaly detection. ICML Anomaly Detection Workshop. https://arxiv.org/abs/1607.00148
+- MITRE ATT&CK. Command and Control (TA0011). https://attack.mitre.org/tactics/TA0011/
+
+**Evaluation metrics (threshold, ROC, F1)**
+
+- Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861–874. https://doi.org/10.1016/j.patrec.2005.10.010
+- Saito, T., & Rehmsmeier, M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. PLOS ONE, 10(3), e0118432. https://doi.org/10.1371/journal.pone.0118432
+
+**Tools used in the code section**
+
+- Abadi, M., et al. (2016). TensorFlow: Large-scale machine learning on heterogeneous systems. https://arxiv.org/abs/1603.04467
+- Chollet, F. (2015). Keras. https://keras.io
+- Pedregosa, F., et al. (2011). Scikit-learn: Machine learning in Python. JMLR, 12, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
+- Harris, C. R., et al. (2020). Array programming with NumPy. Nature, 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2
+
+**Suggested datasets**
+
+- Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A. (2018). Toward generating a new intrusion detection dataset and intrusion traffic characterization (CICIDS2017). ICISSP, 108–116. https://doi.org/10.5220/0006639801080116
+- Tavallaee, M., et al. (2009). A detailed analysis of the KDD CUP 99 data set. IEEE CISDA. https://doi.org/10.1109/CISDA.2009.5356528
 {{% /details %}}
 {{% details title="Affective Computing" id="issue2-affective-computing" closed="true" %}}
+**Foundations**
+
+- Picard, R. W. (1995). Affective computing (MIT Media Laboratory Technical Report No. 321). https://vismod.media.mit.edu/pub/tech-reports/TR-321-ABSTRACT.html
+- Picard, R. W. (1997). Affective computing. MIT Press. https://doi.org/10.7551/mitpress/1140.001.0001
+- Singularity University podcast, Engineering emotion. https://su.org/resources/engineering-emotion-ai
+
+**Psychology of emotion**
+
+- Darwin, C. (1872). The expression of the emotions in man and animals. John Murray.
+- Ekman, P., & Friesen, W. V. (1971). Constants across cultures in the face and emotion. Journal of Personality and Social Psychology, 17(2), 124–129. https://doi.org/10.1037/h0030377
+- Ekman, P. (1992). An argument for basic emotions. Cognition & Emotion, 6(3–4), 169–200. https://doi.org/10.1080/02699939208411068
+- Ekman, P., & Friesen, W. V. (1978). Facial Action Coding System. Consulting Psychologists Press.
+- Mehrabian, A., & Russell, J. A. (1974). An approach to environmental psychology. MIT Press.
+- Russell, J. A. (1980). A circumplex model of affect. Journal of Personality and Social Psychology, 39(6), 1161–1178. https://doi.org/10.1037/h0077714
+- Barrett, L. F., et al. (2019). Emotional expressions reconsidered. Psychological Science in the Public Interest, 20(1), 1–68. https://doi.org/10.1177/1529100619832930
+
+**Vision**
+
+- Turk, M., & Pentland, A. (1991). Eigenfaces for recognition. Journal of Cognitive Neuroscience, 3(1), 71–86. https://doi.org/10.1162/jocn.1991.3.1.71
+- Cootes, T. F., Edwards, G. J., & Taylor, C. J. (2001). Active appearance models. IEEE TPAMI, 23(6), 681–685. https://doi.org/10.1109/34.927467
+- LeCun, Y., et al. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324. https://doi.org/10.1109/5.726791
+- Vaswani, A., et al. (2017). Attention is all you need. https://arxiv.org/abs/1706.03762
+- Dosovitskiy, A., et al. (2021). An image is worth 16x16 words. ICLR. https://arxiv.org/abs/2010.11929
+
+**Voice and physiological signals**
+
+- Davis, S., & Mermelstein, P. (1980). Comparison of parametric representations for monosyllabic word recognition. IEEE TASSP, 28(4), 357–366. https://doi.org/10.1109/TASSP.1980.1163420
+- Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735
+- El Ayadi, M., Kamel, M. S., & Karray, F. (2011). Survey on speech emotion recognition. Pattern Recognition, 44(3), 572–587. https://doi.org/10.1016/j.patcog.2010.09.020
+- Kreibig, S. D. (2010). Autonomic nervous system activity in emotion: A review. Biological Psychology, 84(3), 394–421. https://doi.org/10.1016/j.biopsycho.2010.03.010
+- Task Force of the ESC and NASPE (1996). Heart rate variability: Standards of measurement. Circulation, 93(5), 1043–1065.
+- Epp, C., Lippold, M., & Mandryk, R. L. (2011). Identifying emotional states using keystroke dynamics. CHI '11. https://doi.org/10.1145/1978942.1979046
+
+**Multimodal**
+
+- Baltrušaitis, T., Ahuja, C., & Morency, L.-P. (2019). Multimodal machine learning: A survey and taxonomy. IEEE TPAMI, 41(2), 423–443. https://doi.org/10.1109/TPAMI.2018.2798607
+- Poria, S., et al. (2017). A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98–125. https://doi.org/10.1016/j.inffus.2017.02.003
+
+**Bias, privacy and ethics**
+
+- Rhue, L. (2018). Racial influence on automated perceptions of emotions. SSRN. https://doi.org/10.2139/ssrn.3281765
+- Buolamwini, J., & Gebru, T. (2018). Gender shades. PMLR, 81, 77–91. http://proceedings.mlr.press/v81/buolamwini18a.html
+- NYU Steinhardt (2023, December). Alexa, am I happy? How AI emotion recognition falls short. https://steinhardt.nyu.edu/news/alexa-am-i-happy-how-ai-emotion-recognition-falls-short
+- Regulation (EU) 2016/679 (GDPR). https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Regulation (EU) 2024/1689 (AI Act), Art. 5(1)(f). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
+- American Psychiatric Association (2022). DSM-5-TR.
 {{% /details %}}
 {{% details title="The Algorithm's Lamp in the Darkness of the Skull" id="issue2-algorithm-lamp" closed="true" %}}
+**Main paper for the GAN and Swin section**
+
+- Almuhaimeed, A., Bilal, A., Alzahrani, A., Alrashidi, M., Alghamdi, M., & Sarwar, R. (2025). Brain tumor classification using GAN-augmented data with autoencoders and Swin Transformers. Frontiers in Medicine, 12, 1635796. https://doi.org/10.3389/fmed.2025.1635796
+
+**The brain and imaging**
+
+- Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. PNAS, 99(16), 10237–10239. https://doi.org/10.1073/pnas.172399499
+- Ogawa, S., et al. (1990). Brain magnetic resonance imaging with contrast dependent on blood oxygenation. PNAS, 87(24), 9868–9872. https://doi.org/10.1073/pnas.87.24.9868
+- Huettel, S. A., Song, A. W., & McCarthy, G. (2014). Functional magnetic resonance imaging (3rd ed.). Sinauer.
+
+**Machine learning in medical imaging**
+
+- Litjens, G., et al. (2017). A survey on deep learning in medical image analysis. Medical Image Analysis, 42, 60–88. https://doi.org/10.1016/j.media.2017.07.005
+- Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning, 20, 273–297.
+- Breiman, L. (2001). Random forests. Machine Learning, 45, 5–32.
+
+**GANs and their architectures**
+
+- Goodfellow, I., et al. (2014). Generative adversarial nets. https://arxiv.org/abs/1406.2661
+- Mirza, M., & Osindero, S. (2014). Conditional generative adversarial nets. https://arxiv.org/abs/1411.1784
+- Zhu, J.-Y., et al. (2017). Unpaired image-to-image translation using cycle-consistent adversarial networks. https://arxiv.org/abs/1703.10593
+- Arjovsky, M., Chintala, S., & Bottou, L. (2017). Wasserstein GAN. https://arxiv.org/abs/1701.07875
+- Ledig, C., et al. (2017). Photo-realistic single image super-resolution using a generative adversarial network. https://arxiv.org/abs/1609.04802
+- Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net. https://arxiv.org/abs/1505.04597
+- Yi, X., Walia, E., & Babyn, P. (2019). Generative adversarial network in medical imaging: A review. Medical Image Analysis, 58, 101552. https://doi.org/10.1016/j.media.2019.101552
+
+**Transformer**
+
+- Liu, Z., et al. (2021). Swin Transformer. ICCV. https://arxiv.org/abs/2103.14030
 {{% /details %}}
 {{% details title="Transfer of Experience" id="issue2-transfer-of-experience" closed="true" %}}
 {{% /details %}}
 {{% details title="Web3 and the Future of the Internet" id="issue2-web3" closed="true" %}}
+**The web, 1.0 to 3.0**
+
+- Berners-Lee, T. (1989). Information management: A proposal. CERN. https://www.w3.org/History/1989/proposal.html
+- DiNucci, D. (1999). Fragmented future. Print, 53(4), 32, 221–222.
+- Berners-Lee, T., & Fischetti, M. (1999). Weaving the Web. HarperSanFrancisco.
+- Berners-Lee, T., Hendler, J., & Lassila, O. (2001). The Semantic Web. Scientific American, 284(5), 34–43.
+- Shadbolt, N., Berners-Lee, T., & Hall, W. (2006). The Semantic Web revisited. IEEE Intelligent Systems, 21(3), 96–101. https://doi.org/10.1109/MIS.2006.62
+- Solid Project. https://solidproject.org/
+- Wood, G. (2014, April 17). ĐApps: What Web 3.0 looks like. https://gavwood.com/dappsweb3.html
+
+**Berners-Lee on Web3**
+
+- CNBC (2022, November 4). Web inventor Tim Berners-Lee wants us to ignore Web3. https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html
+- The Next Web (2022, June 23). Web inventor Tim Berners-Lee: Screw Web3. https://thenextweb.com/news/web-inventor-tim-berners-lee-screw-web3-my-decentralized-internet-doesnt-need-blockchain
+
+**Bitcoin and Ethereum**
+
+- Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. https://bitcoin.org/bitcoin.pdf
+- Buterin, V. (2014). Ethereum white paper. https://ethereum.org/en/whitepaper/
+- Szabo, N. (1997). Formalizing and securing relationships on public networks. First Monday, 2(9). https://doi.org/10.5210/fm.v2i9.548
+- Schär, F. (2021). Decentralized finance. Federal Reserve Bank of St. Louis Review, 103(2), 153–174. https://doi.org/10.20955/r.103.153-74
+- The Block (2025, July 14). Bitcoin becomes world's fifth-largest asset. https://www.theblock.co/news/markets/2025-07-14-bitcoin-worlds-fifth-largest-asset-362383
+- Reuters via ThePrint (2025, January). Lawmakers in El Salvador rush new bitcoin reform after IMF deal. https://theprint.in/world/lawmakers-in-el-salvador-rush-new-bitcoin-reform-after-imf-deal/2469577
+
+**AI and blockchain**
+
+- Salah, K., et al. (2019). Blockchain for AI: Review and open research challenges. IEEE Access, 7, 10127–10149. https://doi.org/10.1109/ACCESS.2018.2890507
+- The Block (2024, March 27). Fetch.ai, SingularityNET and Ocean Protocol tokens surge amid merger plans. https://www.theblock.co/post/285020/fetch-ai-singularitynet-and-ocean-protocol-tokens-surge-amid-merger-plans
+- The Block (2025, October 9). Ocean Protocol withdraws from AI token alliance. https://www.theblock.co/post/373977/ocean-protocol-withdraws-from-artificial-superintelligence-alliance
+- Chesney, R., & Citron, D. (2019). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107, 1753–1820.
 {{% /details %}}
 {{% details title="One Click to Collapse" id="issue2-one-click-to-collapse" closed="true" %}}
+**Main report**
+
+- ESET Research (2025, May 15). Operation RoundPress. WeLiveSecurity. https://www.welivesecurity.com/en/eset-research/operation-roundpress/
+- ESET (2025, May 15). ESET Research uncovers Operation RoundPress (press release). https://www.eset.com/us/about/newsroom/research/eset-research-uncovers-operation-roundpress-russia-aligned-sednit-targets-entities-linked-to-the-ukraine-war-to-steal-confidential-data/
+
+**Vulnerabilities**
+
+- NVD. CVE-2024-11182 (MDaemon). https://nvd.nist.gov/vuln/detail/CVE-2024-11182
+- NVD. CVE-2025-49113 (Roundcube). https://nvd.nist.gov/vuln/detail/CVE-2025-49113
+- Roundcube. Security updates 1.6.11 and 1.5.10 (2025, June 1). https://roundcube.net/news/
+- CISA. Known Exploited Vulnerabilities Catalog. https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+- MITRE CWE-502: Deserialization of untrusted data. https://cwe.mitre.org/data/definitions/502.html
+- OWASP. Cross Site Scripting (XSS). https://owasp.org/www-community/attacks/xss/
+
+**Frameworks**
+
+- MITRE ATT&CK. T1566 Phishing. https://attack.mitre.org/techniques/T1566/
+- MITRE ATT&CK. T1078 Valid Accounts. https://attack.mitre.org/techniques/T1078/
+- NIST. Advanced persistent threat (glossary). https://csrc.nist.gov/glossary/term/advanced_persistent_threat
+
+**Defence**
+
+- Kitterman, S. (2014). RFC 7208: Sender Policy Framework (SPF). https://www.rfc-editor.org/rfc/rfc7208
+- Crocker, D., Hansen, T., & Kucherawy, M. (2011). RFC 6376: DomainKeys Identified Mail (DKIM) signatures. https://www.rfc-editor.org/rfc/rfc6376
+- Kucherawy, M., & Zwicky, E. (2015). RFC 7489: DMARC. https://www.rfc-editor.org/rfc/rfc7489
+- OWASP Core Rule Set (ModSecurity). https://coreruleset.org/
+
+**AI in detection and adversarial attacks**
+
+- Biggio, B., & Roli, F. (2018). Wild patterns: Ten years after the rise of adversarial machine learning. Pattern Recognition, 84, 317–331. https://doi.org/10.1016/j.patcog.2018.07.023
+- Vassilev, A., et al. (2024). Adversarial machine learning: A taxonomy and terminology of attacks and mitigations (NIST AI 100-2 E2023). https://doi.org/10.6028/NIST.AI.100-2e2023
 {{% /details %}}
 {{% details title="Introducing Student Projects" id="issue2-student-projects" closed="true" %}}
 {{% /details %}}
